@@ -82,7 +82,7 @@ ____
 
 ## Author
 
-**[Clement Eghosa] [Data Analyst]**  |Power BI |SQL | EXCEL
+**Clement Eghosa [Data Analyst]**  |Power BI |SQL | EXCEL
  
  **DecodeLabs Intern**
 
