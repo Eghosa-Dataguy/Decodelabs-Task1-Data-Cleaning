@@ -5,17 +5,6 @@
 ## Table Of Content
 - [Project Overview]
 - [Dataset Cleaning Process]
-
-     * [Duplicate Removal]
-
-     * [Handling Missing] 
-  
-     * [Data Type Formatting]
-  
-     * [Text Standardization]
-  
-     * [Data Validation]
-
 - [Tools]
 - [Key Outcomes]
 - [Skills]
@@ -89,13 +78,16 @@ I Performed a comprehensive data cleaning and preprocessing, including duplicate
 
 The data cleaning process transformed the raw dataset into a structured and reliable dataset suitable for analysis, visualization, and decision-making. Proper cleaning ensures that subsequent analytical tasks are based on accurate and high-quality data.
 
-Kindly give me a star⭐ if you find this helpful
 ____
+
 ## Author
 
-**[Clement Eghosa] |Data Analyst |Power BI |SQL | EXCEL**
+**[Clement Eghosa] [Data Analyst]**  |Power BI |SQL | EXCEL
  
- DecodeLabs[Intern]
+ **DecodeLabs Intern**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/eghosa-osalob)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-black?logo=github)](https://github.com/Eghosa-Dataguy)
+
+---
+*If you found this project helpful, feel free to ⭐ star the repo or connect on LinkedIn*
